@@ -5,6 +5,7 @@ import argparse
 import sys
 from typing import List, Union
 
+__author__ = 'Sergey M <tz4678@gmail.com>'
 __version__ = '0.1.0'
 
 
